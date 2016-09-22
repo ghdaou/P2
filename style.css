@@ -1,0 +1,29 @@
+body {
+
+}
+
+.resultDisplay {
+	color:black;
+	height: 50px;
+	border: 1px;
+	padding: 5px;
+	font-size: 20px;
+	text-align: center;
+}
+.error {
+	color:red;
+	text-align:center;
+}
+
+.formStyle {
+	text-align: center;
+}
+a:link, a:visited, a:active, a:hover {
+	color:white;
+}
+
+h1{
+	color:black;
+	margin-bottom:20px;
+	text-align: center;
+}
