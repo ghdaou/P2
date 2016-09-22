@@ -7,7 +7,6 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
 <html>
 	<head>
 
-
 		<meta charset='utf-8'>
 
 		<title>xkcd Password Generator</title>
@@ -34,7 +33,7 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
 
 			<form method='POST' action='index.php'>
 
-				Enter number of words desired (1-9)<input type='text' name='numberOfWords'><br>
+				Enter the desired number of words(1-9)<input type='text' name='numberOfWords'><br>
 				Would you like to use a Number<input type='checkbox' name='numberIncluded' value="Yes"><br>
 				Would you like to use a special character<input type='checkbox' name='includeSpSymbol' value="Yes"><br>
 

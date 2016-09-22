@@ -1,12 +1,9 @@
 body {
-
+	background-color: grey;
 }
 
 .resultDisplay {
-	color:black;
-	height: 50px;
-	border: 1px;
-	padding: 5px;
+	color: black;
 	font-size: 20px;
 	text-align: center;
 }
